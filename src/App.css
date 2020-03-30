@@ -41,3 +41,37 @@ body{
   border-radius: 5px;
   box-shadow: -4px 0px 30px #b7b4b4;
 }
+
+ label.MuiFormLabel-root {
+  color: #ccc!important;
+  font-size: 13px!important;
+}
+
+.facebook-button{
+color: white;
+height: 40px;
+background-color: #4c69ba;
+border-radius : 30px;
+width: 60%;
+font-size: 14px;
+margin-top: 10px;
+position: relative;
+}
+
+.register-button{
+  background: #4691E3!important;
+  border-radius : 30px!important;
+  width:60%;
+  margin: auto!important;
+}
+
+.register-input {
+  margin-top: 7px!important;
+}
+.register-checkbox{
+  color: #ccc!important;
+}
+
+.register-checkbox > span{
+  font-size: 13px!important;
+}
